@@ -12,7 +12,6 @@ Curitiba - PR, Brazil
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GBereoff&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ---
 
